@@ -15,7 +15,7 @@
         },
         "recipees": [
             {
-                "recipee_name": "Quinno-Pasta",
+                "recipee_name": "Stuffed Bean Burger.",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -28,7 +28,7 @@
                 "cookingMethod":"Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "kaddu ki sabji",
+                "recipee_name": "Lamb Burger with Radish Slaw.",
                 "ingredientsOne": "1 tablespoon Worcestershire",
                 "indegredientTwo": "1 or 2 cloves garlic, peeled and minced",
                 "indegredientThree": "About 1/2 teaspoon salt",
@@ -51,7 +51,7 @@
                 "cookingMethod":"Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "Besan Badam Puri",
+                "recipee_name": "Potato Corn Burger.",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -81,7 +81,7 @@
         },
         "recipees": [
             {
-                "recipee_name": "Quinno-Pasta",
+                "recipee_name": "Potato Corn Burger.",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -104,7 +104,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "kaddu ki sabji",
+                "recipee_name": "Potato Corn Burger.",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -125,7 +125,7 @@
                 "Recipee_img": "data:image/jpeg;base64,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"
             },
             {
-                "recipee_name": "Besan Badam Puri",
+                "recipee_name": "Perfect Lamb Satay Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -173,7 +173,7 @@
         },
         "recipees": [
             {
-                "recipee_name": "Quinno-Pasta",
+                "recipee_name": "Lamb and Tomato Stuffed Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -186,7 +186,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "kaddu ki sabji",
+                "recipee_name": "Crunchy Chicken and Fish Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -209,7 +209,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "Besan Badam Puri",
+                "recipee_name": "Chicken Feta Cheese Burger With Potato Salad",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -257,7 +257,7 @@
         },
         "recipees": [
             {
-                "recipee_name": "Quinno-Pasta",
+                "recipee_name": "Lentil and Mushroom Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -280,7 +280,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "kaddu ki sabji",
+                "recipee_name": "Stuffed Bean Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -303,7 +303,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "Besan Badam Puri",
+                "recipee_name": "Lamb Burger with Radish Slaw",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -351,7 +351,7 @@
         },
         "recipees": [
             {
-                "recipee_name": "Quinno-Pasta",
+                "recipee_name": "Potato Corn Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -374,7 +374,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "kaddu ki sabji",
+                "recipee_name": " Supreme Veggie Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -397,7 +397,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "Besan Badam Puri",
+                "recipee_name": "Butter Chicken Twin Burgers",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -445,7 +445,7 @@
         },
         "recipees": [
             {
-                "recipee_name": "Quinno-Pasta",
+                "recipee_name": "Rajma Patty Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -468,7 +468,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "kaddu ki sabji",
+                "recipee_name": "Pizza Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
@@ -491,7 +491,7 @@
                 "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
-                "recipee_name": "Besan Badam Puri",
+                "recipee_name": "Pizza Burger",
                 "cheff_name": "Jimmy Dane",
                 "prep": "15 minutes",
                 "cook": "15 minutes",
