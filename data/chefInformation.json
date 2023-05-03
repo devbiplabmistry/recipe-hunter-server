@@ -1,0 +1,74 @@
+[
+    {
+      "_id": "1",
+      "picture": "http://placehold.it/32x32",
+      "name": "Masterchef Sanjeev Kapoor",
+      "yearOfExperience": "15+",
+      "noOfRecipee": "10",
+      "rattings": "5",
+      "likes":"1000"
+    },
+    {
+      "_id": "2",
+      "picture": "http://placehold.it/32x32",
+      "name": "Chef Harpal Singh Sokhi",
+      "yearOfExperience": "10+",
+      "noOfRecipee": "5",
+      "rattings": "5",
+      "likes":"600"
+    },
+    {
+      "_id": "3",
+      "picture": "http://placehold.it/32x32",
+      "name": "Chef Amrita Raichand",
+      "yearOfExperience": "10+",
+      "noOfRecipee": "5",
+      "rattings": "4.9",
+      "likes":"300"
+    },
+    {
+      "_id": "4",
+      "picture": "http://placehold.it/32x32",
+      "name": "Chef Rakhee Vaswani",
+      "yearOfExperience": "8+",
+      "noOfRecipee": "6",
+      "rattings": "4.2",
+      "likes":"500"
+    }
+    {
+      "_id": "5",
+      "picture": "http://placehold.it/32x32",
+      "name": "Chef Sanjay Gupta",
+      "yearOfExperience": "5+",
+      "noOfRecipee": "5",
+      "rattings": "4.5",
+      "likes":"500"
+    },
+    {
+      "_id": "6",
+      "picture": "http://placehold.it/32x32",
+      "name": "Chef Anupa Das",
+      "yearOfExperience": "6+",
+      "noOfRecipee": "4",
+      "rattings": "4.8",
+      "likes":"200"
+    },
+    {
+      "_id": "7",
+      "picture": "http://placehold.it/32x32",
+      "name": "Tamera Mcdaniel",
+      "yearOfExperience": "7+",
+      "noOfRecipee": "3",
+      "rattings": "4.5",
+      "likes":"300"
+    },
+    {
+      "_id": "8",
+      "picture": "http://placehold.it/32x32",
+      "name": "Chef Santanu Gupte",
+      "yearOfExperience": "3+",
+      "noOfRecipee": "2",
+      "rattings": "4.2",
+      "likes":"100"
+    }
+  ]
