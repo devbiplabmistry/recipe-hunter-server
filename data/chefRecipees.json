@@ -9,17 +9,13 @@
         "rattings": "5",
         "likes": "1000",
         "bio": "Sanjeev Kapoor is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
+        "ingredientsOne": "Canned pineapple slices",
+        "indegredientTwo": "Refined flour",
+        "indegredientThree": "Egg",
+        "indegredientFour": "Cinnamon powder",
+        "indegredientFive": "Sugar",
+        "indegredientSix": "Butter",
+        "indegredientSeven": "Packed brown sugar",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -32,9 +28,11 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"5",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
+                "Recipee_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfT3GtaYa7j2z5755vcS8KDf1Oxb69QyACDFcebnwKRB5CS2YVcBYQxIpLxnr3uvBBcHY&usqp=CAU",
+                "cookingMethod":"Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "kaddu ki sabji",
@@ -43,9 +41,11 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"5",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/9TCSKr6"
+                "Recipee_img": "https://ibb.co/9TCSKr6",
+                "cookingMethod":"Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "Besan Badam Puri",
@@ -54,12 +54,14 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"5",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
+                "Recipee_img": "https://ibb.co/rKj03WC",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
+        ]
+       
     },
     {
         "_id": "2",
@@ -70,17 +72,13 @@
         "rattings": "5",
         "likes": "600",
         "bio": "Chef Harpal Singh Sokhi is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.ed list of various .",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
+        "ingredientsOne": "Canned pineapple slices",
+        "indegredientTwo": "Refined flour",
+        "indegredientThree": "Egg",
+        "indegredientFour": "Cinnamon powder",
+        "indegredientFive": "Sugar",
+        "indegredientSix": "Butter",
+        "indegredientSeven": "Packed brown sugar",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -92,10 +90,12 @@
                 "prep": "15 minutes",
                 "cook": "15 minutes",
                 "method": "Eassy",
+                "ratting":"4.5",
                 "type": "American",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
+                "Recipee_img": "https://ibb.co/JrgR9dw",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "kaddu ki sabji",
@@ -115,12 +115,14 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"4.7",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
+                "Recipee_img": "https://ibb.co/rKj03WC",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
+        ]
+     
     },
     {
         "_id": "3",
@@ -132,17 +134,13 @@
         "rattings": "4.9",
         "likes": "300",
         "bio": "Chef Amrita Raichand is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
+        "ingredientsOne": "Canned pineapple slices",
+        "indegredientTwo": "Refined flour",
+        "indegredientThree": "Egg",
+        "indegredientFour": "Cinnamon powder",
+        "indegredientFive": "Sugar",
+        "indegredientSix": "Butter",
+        "indegredientSeven": "Packed brown sugar",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -154,10 +152,12 @@
                 "prep": "15 minutes",
                 "cook": "15 minutes",
                 "method": "Eassy",
+                "ratting":"4.3",
                 "type": "American",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
+                "Recipee_img": "https://ibb.co/JrgR9dw",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "kaddu ki sabji",
@@ -165,10 +165,12 @@
                 "prep": "15 minutes",
                 "cook": "15 minutes",
                 "method": "Eassy",
+                "ratting":"4.9",
                 "type": "American",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/9TCSKr6"
+                "Recipee_img": "https://ibb.co/9TCSKr6",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "Besan Badam Puri",
@@ -176,13 +178,15 @@
                 "prep": "15 minutes",
                 "cook": "15 minutes",
                 "method": "Eassy",
+                "ratting":"5",
                 "type": "American",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
+                "Recipee_img": "https://ibb.co/rKj03WC",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
+        ]
+       
     },
     {
         "_id": "4",
@@ -194,17 +198,13 @@
         "rattings": "4.2",
         "likes": "500",
         "bio": "Chef Rakhee Vaswani is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
+        "ingredientsOne": "Canned pineapple slices",
+        "indegredientTwo": "Refined flour",
+        "indegredientThree": "Egg",
+        "indegredientFour": "Cinnamon powder",
+        "indegredientFive": "Sugar",
+        "indegredientSix": "Butter",
+        "indegredientSeven": "Packed brown sugar",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -217,9 +217,11 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"3.9",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
+                "Recipee_img": "https://ibb.co/JrgR9dw",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "kaddu ki sabji",
@@ -228,9 +230,11 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"4.7",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/9TCSKr6"
+                "Recipee_img": "https://ibb.co/9TCSKr6",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "Besan Badam Puri",
@@ -238,13 +242,15 @@
                 "prep": "15 minutes",
                 "cook": "15 minutes",
                 "method": "Eassy",
+                "ratting":"5",
                 "type": "American",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
+                "Recipee_img": "https://ibb.co/rKj03WC",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
+        ]
+        
     },
     {
         "_id": "5",
@@ -256,17 +262,13 @@
         "rattings": "4.5",
         "likes": "500",
         "bio": "Chef Sanjay Gupta is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
+        "ingredientsOne": "Canned pineapple slices",
+        "indegredientTwo": "Refined flour",
+        "indegredientThree": "Egg",
+        "indegredientFour": "Cinnamon powder",
+        "indegredientFive": "Sugar",
+        "indegredientSix": "Butter",
+        "indegredientSeven": "Packed brown sugar",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -279,9 +281,11 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"4.5",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
+                "Recipee_img": "https://ibb.co/JrgR9dw",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "kaddu ki sabji",
@@ -289,10 +293,12 @@
                 "prep": "15 minutes",
                 "cook": "15 minutes",
                 "method": "Eassy",
+                "ratting":"4.2",
                 "type": "American",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/9TCSKr6"
+                "Recipee_img": "https://ibb.co/9TCSKr6",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "Besan Badam Puri",
@@ -301,12 +307,14 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"4.4",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
+                "Recipee_img": "https://ibb.co/rKj03WC",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
+        ]
+
     },
     {
         "_id": "6",
@@ -318,17 +326,13 @@
         "rattings": "4.8",
         "likes": "200",
         "bio": "Chef Anupa Das is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
+        "ingredientsOne": "Canned pineapple slices",
+        "indegredientTwo": "Refined flour",
+        "indegredientThree": "Egg",
+        "indegredientFour": "Cinnamon powder",
+        "indegredientFive": "Sugar",
+        "indegredientSix": "Butter",
+        "indegredientSeven": "Packed brown sugar",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -341,9 +345,11 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"5",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
+                "Recipee_img": "https://ibb.co/JrgR9dw",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "kaddu ki sabji",
@@ -352,9 +358,11 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"4",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/9TCSKr6"
+                "Recipee_img": "https://ibb.co/9TCSKr6",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             },
             {
                 "recipee_name": "Besan Badam Puri",
@@ -363,11 +371,13 @@
                 "cook": "15 minutes",
                 "method": "Eassy",
                 "type": "American",
+                "ratting":"5",
                 "health_tips": "Brown burger buns",
                 "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
+                "Recipee_img": "https://ibb.co/rKj03WC",
+                "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
             }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
+        ]
+       
     }
 ]
