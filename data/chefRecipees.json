@@ -2,6 +2,13 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "recipeeName": "Pineapple Muffins",
+        "picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "name": "Masterchef Sanjeev Kapoor",
+        "yearOfExperience": "15+",
+        "noOfRecipee": "10",
+        "rattings": "5",
+        "likes": "1000",
+        "bio": "Sanjeev Kapoor is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
         "Ingredients": [
             {
                 "indegredient-1": "Canned pineapple slices",
@@ -56,7 +63,13 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-        "recipeeName": "Pineapple Muffins",
+        "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+        "name": "Chef Harpal Singh Sokhi",
+        "yearOfExperience": "10+",
+        "noOfRecipee": "5",
+        "rattings": "5",
+        "likes": "600",
+        "bio": "Chef Harpal Singh Sokhi is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.ed list of various .",
         "Ingredients": [
             {
                 "indegredient-1": "Canned pineapple slices",
@@ -112,6 +125,13 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
         "recipeeName": "Pineapple Muffins",
+        "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
+        "name": "Chef Amrita Raichand",
+        "yearOfExperience": "10+",
+        "noOfRecipee": "5",
+        "rattings": "4.9",
+        "likes": "300",
+        "bio": "Chef Amrita Raichand is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
         "Ingredients": [
             {
                 "indegredient-1": "Canned pineapple slices",
@@ -167,6 +187,13 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
         "recipeeName": "Pineapple Muffins",
+        "picture": "https://media.gettyimages.com/id/186558210/photo/professional-chef-in-kitchen.jpg?s=612x612&w=gi&k=20&c=qBhSF5nwrIATEy_Tt9FZCKmfkSqNI6c-M90aWYxHDtk=",
+        "name": "Chef Rakhee Vaswani",
+        "yearOfExperience": "8+",
+        "noOfRecipee": "6",
+        "rattings": "4.2",
+        "likes": "500",
+        "bio": "Chef Rakhee Vaswani is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
         "Ingredients": [
             {
                 "indegredient-1": "Canned pineapple slices",
@@ -222,6 +249,13 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
         "recipeeName": "Pineapple Muffins",
+        "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
+        "name": "Chef Sanjay Gupta",
+        "yearOfExperience": "5+",
+        "noOfRecipee": "5",
+        "rattings": "4.5",
+        "likes": "500",
+        "bio": "Chef Sanjay Gupta is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
         "Ingredients": [
             {
                 "indegredient-1": "Canned pineapple slices",
@@ -277,116 +311,13 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
         "recipeeName": "Pineapple Muffins",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-        "recipees": [
-            {
-                "recipee_name": "Quinno-Pasta",
-                "cheff_name": "Jimmy Dane",
-                "prep": "15 minutes",
-                "cook": "15 minutes",
-                "method": "Eassy",
-                "type": "American",
-                "health_tips": "Brown burger buns",
-                "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
-            },
-            {
-                "recipee_name": "kaddu ki sabji",
-                "cheff_name": "Jimmy Dane",
-                "prep": "15 minutes",
-                "cook": "15 minutes",
-                "method": "Eassy",
-                "type": "American",
-                "health_tips": "Brown burger buns",
-                "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/9TCSKr6"
-            },
-            {
-                "recipee_name": "Besan Badam Puri",
-                "cheff_name": "Jimmy Dane",
-                "prep": "15 minutes",
-                "cook": "15 minutes",
-                "method": "Eassy",
-                "type": "American",
-                "health_tips": "Brown burger buns",
-                "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
-            }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
-    },
-    {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
-        "recipeeName": "Pineapple Muffins",
-        "Ingredients": [
-            {
-                "indegredient-1": "Canned pineapple slices",
-                "indegredient-2": "Refined flour",
-                "indegredient-3": "Sugar",
-                "indegredient-4": "Egg",
-                "indegredient-5": "Cinnamon powder",
-                "indegredient-6": "Butter",
-                "indegredient-7": "Packed brown sugar"
-            }
-        ],
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-        "recipees": [
-            {
-                "recipee_name": "Quinno-Pasta",
-                "cheff_name": "Jimmy Dane",
-                "prep": "15 minutes",
-                "cook": "15 minutes",
-                "method": "Eassy",
-                "type": "American",
-                "health_tips": "Brown burger buns",
-                "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/JrgR9dw"
-            },
-            {
-                "recipee_name": "kaddu ki sabji",
-                "cheff_name": "Jimmy Dane",
-                "prep": "15 minutes",
-                "cook": "15 minutes",
-                "method": "Eassy",
-                "type": "American",
-                "health_tips": "Brown burger buns",
-                "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/9TCSKr6"
-            },
-            {
-                "recipee_name": "Besan Badam Puri",
-                "cheff_name": "Jimmy Dane",
-                "prep": "15 minutes",
-                "cook": "15 minutes",
-                "method": "Eassy",
-                "type": "American",
-                "health_tips": "Brown burger buns",
-                "recipee_description": "The name says it all – just relish it with tall glass of chilled lemonade Serving Suggestion : Serve with a glass of chilled lemonade.",
-                "Recipee_img": "https://ibb.co/rKj03WC"
-            }
-        ],
-        "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
-    },
-    {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
-        "recipeeName": "Pineapple Muffins",
+        "picture": "https://us.123rf.com/450wm/jomkwan7/jomkwan72004/jomkwan7200400673/145781815-beautiful-asian-chef-woman-smile-and-make-okay-hand-sign-isolated-on-pink-background-happiness-and.jpg?ver=6",
+        "name": "Chef Anupa Das",
+        "yearOfExperience": "6+",
+        "noOfRecipee": "4",
+        "rattings": "4.8",
+        "likes": "200",
+        "bio": "Chef Anupa Das is the most celebrated face of Indian cuisine today. He is Chef extraordinaire, runs a successful TV Channel ‘FoodFood’, author of best selling cookbooks, restaurateur and winner of several culinary awards! He is living his dream of making Indian cuisine the number one cuisine in the world and empowering Indian women through power of cooking to become self sufficient.",
         "Ingredients": [
             {
                 "indegredient-1": "Canned pineapple slices",
@@ -439,5 +370,4 @@
         ],
         "cookingMethod": " Preheat the oven to 375º F / 180º C. Grease the muffin moulds and dust them with a little dry flour or line them with paper liners.Take refined flour, baking powder, salt and sugar in a mixing bowl and mix well.Drain the pineapple slices and reserve ¼ cup juice. Crush the slices.Prepare a well in the middle of the dry ingredients, add egg and the reserved pineapple juice, ¼ cup melted butter and milk and mix well.To make topping, take ½ cup flour in another bowl, add cinnamon powder, remaining melted butter and brown sugar and mix prepare the garnishing.Pour the batter into the prepared muffin moulds till ½ full and put some crushed pineapple on top. Sprinkle the topping mixture on top.Keep the muffin moulds in the preheated oven and bake for ½ hour. Prick a toothpick into the muffins, if it comes out clean the muffins are done.Arrange them on a serving platter and serve."
     }
-    
 ]
